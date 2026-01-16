@@ -51,6 +51,7 @@ body.dark{
   ) no-repeat;
   color: #e5e7eb;
   min-height: 100vh;
+  transition: 0.3s;
 } 
 
 
@@ -88,7 +89,7 @@ body.dark{
   );
   border-radius: 999px;
   cursor: pointer;
-  transition: 0.5;
+  transition: 0.5s;
 }
 
 /* Circle */
@@ -146,7 +147,7 @@ body.dark{
   padding: 20px;
   font-family: "inter", sans-serif;
 
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease;
 }
 
 .first-grid:hover{
@@ -220,7 +221,7 @@ body.dark .first-grid:hover{
   padding: 20px;
   font-family: "inter", sans-serif;
 
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease;
 }
 
 .second-grid:hover{
@@ -294,7 +295,7 @@ body.dark .second-grid:hover{
   font-family: "inter", sans-serif;
   position: relative;
 
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease;
 }
 
 .third-grid:hover{
@@ -388,7 +389,7 @@ body.dark .third-grid:hover{
   padding: 20px;
   font-family: "inter", sans-serif;
 
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease;
 }
 
 .fourth-grid:hover{
@@ -481,7 +482,7 @@ body.dark .fourth-grid:hover{
   border-radius: 7px;
   padding: 25px;
 
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease;
 }
 
 .box-one:hover{
@@ -545,7 +546,7 @@ body.dark .box-one:hover{
   border-radius: 7px;
   padding: 25px;
 
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease;
 }
 
 .box-two:hover{
@@ -609,7 +610,7 @@ body.dark .box-two:hover{
   border-radius: 7px;
   padding: 25px;
 
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease;
 }
 
 .box-three:hover{
@@ -673,7 +674,7 @@ body.dark .box-three:hover{
   border-radius: 7px;
   padding: 25px;
 
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease;
 }
 
 .box-four:hover{
@@ -736,7 +737,7 @@ body.dark .box-four:hover{
   border-radius: 7px;
   padding: 25px;
 
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease;
 }
 
 .box-five:hover{
@@ -799,7 +800,7 @@ body.dark .box-five:hover{
   border-radius: 7px;
   padding: 25px;
 
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease;
 }
 
 .box-six:hover{
@@ -862,7 +863,7 @@ body.dark .box-six:hover{
   border-radius: 7px;
   padding: 25px;
 
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease;
 }
 
 .box-seven:hover{
@@ -926,7 +927,7 @@ body.dark .box-seven:hover{
   border-radius: 7px;
   padding: 25px;
 
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease;
 }
 
 .box-eight:hover{
