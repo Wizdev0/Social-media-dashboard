@@ -26,12 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Assets/Social-media-ss.png)
+![Light Mode](./Assets/Social-media-ss.png)
+![Night Mode](./Assets/Social-media-ss-dk.png)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Social-media-dashboard.com](https://wizdev0.github.io/Social-media-dashboard/)
 
 ## My process
 
